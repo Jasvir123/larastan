@@ -10,4 +10,7 @@ class TestController extends Controller
     {
         return view('test');
     }
+    public function aboutUs(){
+        return v iew('about-us');
+    }
 }
