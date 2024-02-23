@@ -10,6 +10,6 @@ class TestController extends Controller
         return view('products');
     }
     public function aboutUs(){
-        return vi ew('about-us');
+        return view('about-us');
     }
 }
