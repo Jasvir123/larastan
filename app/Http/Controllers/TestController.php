@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class TestController extends Controller
 {
-    public function products(){
+    public function pro ducts(){
         return view('products');
     }
     public function aboutUs(){
